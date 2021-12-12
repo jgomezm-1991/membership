@@ -1,0 +1,5 @@
+C:\Users\Lidia Mercado\Documents\Visual Studio 2012\Projects\Memberchip\Memberchip\bin\Memberchip.dll
+C:\Users\Lidia Mercado\Documents\Visual Studio 2012\Projects\Memberchip\Memberchip\bin\Memberchip.pdb
+C:\Users\Lidia Mercado\Documents\Visual Studio 2012\Projects\Memberchip\Memberchip\obj\Debug\Memberchip.dll
+C:\Users\Lidia Mercado\Documents\Visual Studio 2012\Projects\Memberchip\Memberchip\obj\Debug\Memberchip.pdb
+C:\Users\Lidia Mercado\Documents\Visual Studio 2012\Projects\Memberchip\Memberchip\obj\Debug\Memberchip.csprojResolveAssemblyReference.cache
